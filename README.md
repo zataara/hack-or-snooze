@@ -1,5 +1,5 @@
-##Hack or Snooze
+## Hack or Snooze
 
-- A clone of the hackernews.com.
+- A clone of <a href='https://news.ycombinator.com/'>Hacker News</a> by Y Combinanator.
 
 
