@@ -4,7 +4,7 @@ Hack or Snooze is a working clone of the site <a href='https://news.ycombinator.
 
 ## Why build this?
 
-I put project together with the intention of strenging my skills in writing POST responses for an external API.
+I put this project together with the intention of strenging my skills in writing POST responses for an external API.
 
 
 
