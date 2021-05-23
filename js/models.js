@@ -4,13 +4,12 @@ const BASE_URL = "https://hack-or-snooze-v3.herokuapp.com";
 
 
 //Story: a single story in the system
- 
 
 class Story {
 
-  /** Make instance of Story from data object about story:
-   *   - {title, author, url, username, storyId, createdAt}
-   */
+/** Make instance of Story from data object about story:
+ *   - {title, author, url, username, storyId, createdAt}
+ */
 
   constructor({ storyId, title, author, url, username, createdAt }) {
     this.storyId = storyId;
